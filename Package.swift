@@ -25,7 +25,7 @@ let package = Package(
         .binaryTarget(
             name: "ClockRotationEffect",
             url: "https://raw.githubusercontent.com/Eilgnaw/automatic-app-landing-page/master/assets/spm/ClockRotationEffect.xcframework.zip",
-            checksum: "42ccbf54d308d4412663abecb06e7d021a80374fa8ec0da3f13820cf590d3789"
+            checksum: "8429ed6b77e7d408d0904e2f017e31e06d4864dceec95f44f8e83f08301af6cd"
         ),
 //        .target(
 //            name: "ClockRotationEffect",
